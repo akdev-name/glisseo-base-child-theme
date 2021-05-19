@@ -1,0 +1,19 @@
+# Theme base information.
+screenshot: screenshot.png
+name: AKdev Drupal Theme
+type: theme
+base theme: glisseo
+description: 'Glisseo is a base theme for fast and easy start to theme your project.'
+package: Glisseo
+core_version_requirement: ^8 || ^9
+libraries:
+  - akdev_theme/style.base
+  - akdev_theme/style.layout
+  - akdev_theme/style.component
+  - akdev_theme/style.utilities
+regions:
+  header: Header
+  navigation: Navigation
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer

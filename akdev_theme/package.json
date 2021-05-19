@@ -1,0 +1,40 @@
+{
+  "name": "glisseo",
+  "version": "0.1.2",
+  "main": "gulpfile.js",
+  "author": "",
+  "devDependencies": {
+    "autoprefixer": "^9.3.0",
+    "browser-sync": "^2.26.3",
+    "css-mqpacker": "^6.0.2",
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-image": "^4.3.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  },
+  "browserslist": [
+    "firefox > 40",
+    "chrome > 40",
+    "ie >= 10",
+    "safari >= 10",
+    "opera >= 20",
+    "op_mini all",
+    "ios >= 10",
+    "android >= 4",
+    "and_uc >= 10",
+    "and_chr >= 40"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "@mdi/font": "^2.4.85",
+    "lost": "^8.2.1",
+    "normalize.css": "^8.0.0"
+  }
+}
